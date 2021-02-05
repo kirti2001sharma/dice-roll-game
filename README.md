@@ -1,2 +1,2 @@
 # dice-roll-game
-It's a die roll game in which if Player-1 gets more number on the die than Player-2, player-1 wins and vice versa. If both the players get the same number then, its a DRAW!
+Simple Die roll game made using HTML5, CSS3, and JS.
